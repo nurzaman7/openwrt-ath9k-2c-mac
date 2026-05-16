@@ -61,3 +61,23 @@ See detailed notes in [`docs/USAGE.md`](docs/USAGE.md).
 ## Legacy References
 
 Original research notes and manuals are in `docs/`. Original archives remain in `archive/`.
+
+## Citation
+
+If you use this repository, please cite:
+
+S. S. Ahmed, I. Hussain and N. Ahmed, "Driver Level Implementation of TDMA MAC in Long Distance WiFi," 2015 International Conference on Computational Intelligence and Networks, Odisha, India, 2015, pp. 80-85, doi: 10.1109/CINE.2015.25.
+
+BibTeX:
+
+```bibtex
+@inproceedings{ahmed2015driver,
+  author    = {Ahmed, S. S. and Hussain, I. and Ahmed, N.},
+  title     = {Driver Level Implementation of TDMA MAC in Long Distance WiFi},
+  booktitle = {2015 International Conference on Computational Intelligence and Networks},
+  year      = {2015},
+  pages     = {80--85},
+  address   = {Odisha, India},
+  doi       = {10.1109/CINE.2015.25}
+}
+```

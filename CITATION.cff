@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Linux Ath9k Long-Distance Wi-Fi Driver (2C MAC Research Port)"
+message: "If you use this repository, please cite the related paper below."
+references:
+  - type: conference-paper
+    authors:
+      - family-names: Ahmed
+        given-names: S. S.
+      - family-names: Hussain
+        given-names: I.
+      - family-names: Ahmed
+        given-names: N.
+    title: "Driver Level Implementation of TDMA MAC in Long Distance WiFi"
+    year: 2015
+    conference: "2015 International Conference on Computational Intelligence and Networks"
+    conference-location: "Odisha, India"
+    start: 80
+    end: 85
+    doi: "10.1109/CINE.2015.25"
