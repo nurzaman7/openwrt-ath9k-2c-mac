@@ -66,6 +66,23 @@ Original research notes and manuals are in `docs/`. Original archives remain in 
 
 If you use this repository, please cite:
 
+N. Ahmed, D. De and I. Hussain, "Internet of Things (IoT) for Smart Precision Agriculture and Farming in Rural Areas," in IEEE Internet of Things Journal, vol. 5, no. 6, pp. 4890-4899, Dec. 2018, doi: 10.1109/JIOT.2018.2879579.
+keywords: {Agriculture;Smart devices;Internet of Things;Wireless sensor networks;Delays;Logic gates;Routing;Cloud computing;fog computing;Internet of Things (IoT);smart agriculture;WiFi-based long distance (WiLD) network},
+BibTeX:
+
+```bibtex
+@ARTICLE{8521668,
+  author={Ahmed, Nurzaman and De, Debashis and Hussain, Iftekhar},
+  journal={IEEE Internet of Things Journal}, 
+  title={Internet of Things (IoT) for Smart Precision Agriculture and Farming in Rural Areas}, 
+  year={2018},
+  volume={5},
+  number={6},
+  pages={4890-4899},
+  keywords={Agriculture;Smart devices;Internet of Things;Wireless sensor networks;Delays;Logic gates;Routing;Cloud computing;fog computing;Internet of Things (IoT);smart agriculture;WiFi-based long distance (WiLD) network},
+  doi={10.1109/JIOT.2018.2879579}}
+```
+
 S. S. Ahmed, I. Hussain and N. Ahmed, "Driver Level Implementation of TDMA MAC in Long Distance WiFi," 2015 International Conference on Computational Intelligence and Networks, Odisha, India, 2015, pp. 80-85, doi: 10.1109/CINE.2015.25.
 
 BibTeX:
